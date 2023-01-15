@@ -1,0 +1,54 @@
+C:\Users\lisak\source\repos\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.exe
+C:\Users\lisak\source\repos\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.deps.json
+C:\Users\lisak\source\repos\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.runtimeconfig.json
+C:\Users\lisak\source\repos\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.dll
+C:\Users\lisak\source\repos\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.pdb
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.AssemblyReference.cache
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic_Tack_Toe.LogInForm.resources
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.GenerateResource.cache
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.AssemblyInfoInputs.cache
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.AssemblyInfo.cs
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.CoreCompileInputs.cache
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.dll
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\refint\Tic Tack Toe.dll
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.pdb
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.genruntimeconfig.cache
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\ref\Tic Tack Toe.dll
+C:\Users\lisak\source\repos\Tic Tack Toe\obj\Debug\net6.0-windows\Tic_Tack_Toe.GameForm.resources
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.exe
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.deps.json
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.runtimeconfig.json
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.dll
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.pdb
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.AssemblyReference.cache
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic_Tack_Toe.GameForm.resources
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic_Tack_Toe.LogInForm.resources
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.GenerateResource.cache
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.AssemblyInfoInputs.cache
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.AssemblyInfo.cs
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.CoreCompileInputs.cache
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.dll
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\refint\Tic Tack Toe.dll
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.pdb
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.genruntimeconfig.cache
+D:\Домашка\2.1\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\ref\Tic Tack Toe.dll
+C:\Users\user\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.exe
+C:\Users\user\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.deps.json
+C:\Users\user\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.runtimeconfig.json
+C:\Users\user\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.dll
+C:\Users\user\tic tac toe\Tic Tack Toe\bin\Debug\net6.0-windows\Tic Tack Toe.pdb
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.AssemblyReference.cache
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic_Tack_Toe.GameForm.resources
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic_Tack_Toe.LogInForm.resources
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.GenerateResource.cache
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.AssemblyInfoInputs.cache
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.AssemblyInfo.cs
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.csproj.CoreCompileInputs.cache
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.dll
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\refint\Tic Tack Toe.dll
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.pdb
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\Tic Tack Toe.genruntimeconfig.cache
+C:\Users\user\tic tac toe\Tic Tack Toe\obj\Debug\net6.0-windows\ref\Tic Tack Toe.dll
